@@ -1,0 +1,6 @@
+[submodule "cmark"]
+	path = cmark
+	url = https://github.com/commonmark/cmark
+[submodule "cmark-gfm"]
+	path = cmark-gfm
+	url = https://github.com/github/cmark-gfm
